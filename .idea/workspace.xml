@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/header-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/005_tags/header-tags.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,26 +23,26 @@
       <file leaf-file-name="charset.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/005_tags/charset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="110">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_DTD-documentDeclaration.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html">
+      <file leaf-file-name="exmaple_1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/exmaple_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="110">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header-tags.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/header-tags.html">
+      <file leaf-file-name="example_1-note" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/005_tags/example_1-note">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="22">
+              <caret line="1" column="188" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="188" />
             </state>
           </provider>
         </entry>
@@ -68,6 +69,8 @@
         <option value="$PROJECT_DIR$/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/header-tags.html" />
+        <option value="$PROJECT_DIR$/005_tags/example_1-note" />
+        <option value="$PROJECT_DIR$/005_tags/exmaple_1.html" />
       </list>
     </option>
   </component>
@@ -87,9 +90,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="547" />
-    <option name="y" value="428" />
-    <option name="width" value="1603" />
+    <option name="x" value="460" />
+    <option name="y" value="116" />
+    <option name="width" value="1545" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -185,18 +188,18 @@
       <workItem from="1530541446979" duration="306000" />
       <workItem from="1530622305052" duration="2152000" />
       <workItem from="1530706988730" duration="4336000" />
-      <workItem from="1530793669231" duration="1252000" />
+      <workItem from="1530793669231" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8046000" />
+    <option name="totallyTimeSpent" value="9001000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="547" y="428" width="1603" height="813" extended-state="0" />
+    <frame x="469" y="206" width="1545" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.13969658" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14501312" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -229,6 +232,8 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="LONG_EDGES_VISIBLE" value="true" />
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
                 <collection />
               </option>
@@ -327,13 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/charset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -341,10 +339,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/charset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/example_1-note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="188" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/header-tags.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="140">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/exmaple_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
