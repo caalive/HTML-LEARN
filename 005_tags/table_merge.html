@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>表格合并</title>
+    </head>
+
+    <body>
+
+        <table  bgcolor="black" width="200px" height="300px">
+            <caption>3x3表格的合并操作</caption>
+            <tr bgcolor="white">
+                <th rowspan="2">姓名</th>
+                <th>性别</th>
+                <th>年龄</th>
+            </tr>
+            <tr bgcolor="white">
+
+                <td>男</td>
+                <td>20</td>
+            </tr>
+            <tr bgcolor="white">
+                <td>李四</td>
+                <td>女</td>
+                <td>30</td>
+            </tr>
+        </table>
+
+
+        <div>
+            <table  bgcolor="black" width="200px" height="300px">
+                <caption>3x3表格的合并操作</caption>
+                <tr bgcolor="white">
+                    <th colspan="2">姓名</th>
+
+                    <th>年龄</th>
+                </tr>
+                <tr bgcolor="white">
+                    <td>张三</td>
+                    <td>男</td>
+                    <td>20</td>
+                </tr>
+                <tr bgcolor="white">
+                    <td>李四</td>
+                    <td colspan="2">女</td>
+
+                </tr>
+            </table>
+
+        </div>
+
+    </body>
+</html>
