@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_tags_dl_example.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list_tags_dl_example.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/005_tags/list_tags_dl_example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="189">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table_tag.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/table_tag.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -75,6 +84,7 @@
         <option value="$PROJECT_DIR$/005_tags/list_tags_ol.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_dl.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" />
+        <option value="$PROJECT_DIR$/005_tags/table_tag.html" />
       </list>
     </option>
   </component>
@@ -94,8 +104,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1420" />
-    <option name="y" value="109" />
+    <option name="x" value="916" />
+    <option name="y" value="451" />
     <option name="width" value="1331" />
     <option name="height" value="711" />
   </component>
@@ -197,12 +207,12 @@
       <workItem from="1530622305052" duration="2152000" />
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
-      <workItem from="1530878704044" duration="11365000" />
+      <workItem from="1530878704044" duration="12095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25628000" />
+    <option name="totallyTimeSpent" value="26358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,7 +224,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="284" y="170" width="1331" height="711" extended-state="0" />
+    <frame x="916" y="451" width="1331" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1908397" />
@@ -498,8 +508,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/list_tags_dl_example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="189">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/table_tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
