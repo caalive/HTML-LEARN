@@ -261,3 +261,9 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 
 ### 详情和概要标签 details和summary
 - 利用summary描述概要信息。利用details展示详情信息.
+### marquee标签
+- marquee标签作用就是用来制作跑马灯的. 各大浏览器都支持.
+- direction属性用来控制滚动方向。
+- scorllamount属性用来控制滚动速度,值越大滚动越快，100最快
+- loop属性用来控制滚动次数。-1为无限次滚动。
+- behavior 属性设置滚动类型，滚动到边界还是什么的。有两个取值，一个是slide滚动到边界就停止，一个是alternate滚动到边界就反弹回来。
