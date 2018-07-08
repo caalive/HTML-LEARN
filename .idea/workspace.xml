@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form_tag_dalist_html5_tag.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html">
+      <file leaf-file-name="form_tag_select.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/form_tag_select.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -88,6 +88,7 @@
         <option value="$PROJECT_DIR$/005_tags/form_tag_button.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_label.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" />
+        <option value="$PROJECT_DIR$/005_tags/form_tag_select.html" />
       </list>
     </option>
   </component>
@@ -107,8 +108,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="760" />
-    <option name="y" value="23" />
+    <option name="x" value="685" />
+    <option name="y" value="184" />
     <option name="width" value="1331" />
     <option name="height" value="948" />
   </component>
@@ -211,12 +212,12 @@
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
-      <workItem from="1531010414864" duration="6281000" />
+      <workItem from="1531010414864" duration="7374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42686000" />
+    <option name="totallyTimeSpent" value="43779000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,7 +229,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="976" y="124" width="1331" height="948" extended-state="0" />
+    <frame x="774" y="432" width="1331" height="948" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20458016" />
@@ -623,8 +624,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
