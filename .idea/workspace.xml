@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="table_tag_homework_2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_2.html">
+      <file leaf-file-name="form_tag_input.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/form_tag_input.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -84,6 +83,8 @@
         <option value="$PROJECT_DIR$/005_tags/table_merge_example.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag_homework_1.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag_homework_2.html" />
+        <option value="$PROJECT_DIR$/005_tags/form_tag.html" />
+        <option value="$PROJECT_DIR$/005_tags/form_tag_input.html" />
       </list>
     </option>
   </component>
@@ -103,8 +104,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="82" />
+    <option name="x" value="831" />
+    <option name="y" value="37" />
     <option name="width" value="1331" />
     <option name="height" value="884" />
   </component>
@@ -152,17 +153,6 @@
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
               <item name="005_tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="table3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,12 +208,12 @@
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
-      <workItem from="1531010414864" duration="2147000" />
+      <workItem from="1531010414864" duration="3881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38552000" />
+    <option name="totallyTimeSpent" value="40286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,15 +225,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="82" width="1331" height="884" extended-state="0" />
+    <frame x="879" y="83" width="1331" height="884" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20458016" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20458016" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.39898348" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -602,8 +592,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state relative-caret-position="88">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
