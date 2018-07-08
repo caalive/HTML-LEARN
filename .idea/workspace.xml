@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_example_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/005_tags/form_tag_example_register.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="form_tag_example_register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/005_tags/form_tag_example_register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -97,6 +99,7 @@
         <option value="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_select.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_example.html" />
+        <option value="$PROJECT_DIR$/005_tags/form_tag_example_register.html" />
       </list>
     </option>
   </component>
@@ -116,7 +119,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="571" />
+    <option name="x" value="826" />
     <option name="y" value="23" />
     <option name="width" value="1269" />
     <option name="height" value="865" />
@@ -220,12 +223,12 @@
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
-      <workItem from="1531010414864" duration="8840000" />
+      <workItem from="1531010414864" duration="9574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45245000" />
+    <option name="totallyTimeSpent" value="45979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,7 +240,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="23" width="1269" height="865" extended-state="0" />
+    <frame x="826" y="23" width="1269" height="865" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20458016" />
@@ -646,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/form_tag_example_register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
