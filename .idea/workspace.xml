@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form_tag_label.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/form_tag_label.html">
+      <file leaf-file-name="form_tag_dalist_html5_tag.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="374">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -87,6 +87,7 @@
         <option value="$PROJECT_DIR$/005_tags/form_tag_input.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_button.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_label.html" />
+        <option value="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" />
       </list>
     </option>
   </component>
@@ -106,8 +107,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="662" />
-    <option name="y" value="447" />
+    <option name="x" value="760" />
+    <option name="y" value="23" />
     <option name="width" value="1331" />
     <option name="height" value="948" />
   </component>
@@ -150,6 +151,11 @@
             <path>
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="005_tags" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,12 +211,12 @@
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
-      <workItem from="1531010414864" duration="5750000" />
+      <workItem from="1531010414864" duration="6281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42155000" />
+    <option name="totallyTimeSpent" value="42686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,7 +228,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="662" y="447" width="1331" height="948" extended-state="0" />
+    <frame x="976" y="124" width="1331" height="948" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20458016" />
@@ -610,8 +616,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/form_tag_label.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="330">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
