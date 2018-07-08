@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,16 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="table_merge_example.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/table_merge_example.html">
+      <file leaf-file-name="table_tag_homework_2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
-              <folding>
-                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="541">
+              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -84,6 +82,8 @@
         <option value="$PROJECT_DIR$/005_tags/table_structer.html" />
         <option value="$PROJECT_DIR$/005_tags/table_merge.html" />
         <option value="$PROJECT_DIR$/005_tags/table_merge_example.html" />
+        <option value="$PROJECT_DIR$/005_tags/table_tag_homework_1.html" />
+        <option value="$PROJECT_DIR$/005_tags/table_tag_homework_2.html" />
       </list>
     </option>
   </component>
@@ -103,8 +103,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="828" />
-    <option name="y" value="23" />
+    <option name="x" value="195" />
+    <option name="y" value="82" />
     <option name="width" value="1331" />
     <option name="height" value="884" />
   </component>
@@ -153,6 +153,17 @@
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
               <item name="005_tags" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="table3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,15 +180,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/path_demo" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/path_demo/images/a/b" />
-      <recent name="$PROJECT_DIR$/path_demo/images/a" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/005_tags" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/path_demo" />
+      <recent name="$PROJECT_DIR$/path_demo/images/a/b" />
+      <recent name="$PROJECT_DIR$/path_demo/images/a" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -206,12 +217,13 @@
       <workItem from="1530622305052" duration="2152000" />
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
-      <workItem from="1530878704044" duration="21544000" />
+      <workItem from="1530878704044" duration="22142000" />
+      <workItem from="1531010414864" duration="2147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35807000" />
+    <option name="totallyTimeSpent" value="38552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,11 +235,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="851" y="23" width="1331" height="884" extended-state="0" />
+    <frame x="195" y="82" width="1331" height="884" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20458016" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20458016" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -294,6 +306,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/005_tags/table_merge_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+          <folding>
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/path_demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -556,13 +580,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/005_tags/table_merge_example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        <state relative-caret-position="219">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="15" column="68" lean-forward="true" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/table3/photo_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
         </state>
       </provider>
     </entry>
