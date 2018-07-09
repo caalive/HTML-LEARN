@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/code/03-css_text_attr.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/code/03-css_text_attr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-css_text_attr.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/03-css_text_attr.html">
+      <file leaf-file-name="03-css_text_attr_shortform.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/03-css_text_attr_shortform.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="308">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -99,6 +98,7 @@
         <option value="$PROJECT_DIR$/CSS/code/01-CSS.html" />
         <option value="$PROJECT_DIR$/CSS/code/02-css_format.html" />
         <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr.html" />
+        <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr_shortform.html" />
       </list>
     </option>
   </component>
@@ -118,8 +118,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="y" value="95" />
+    <option name="x" value="1024" />
+    <option name="y" value="354" />
     <option name="width" value="1269" />
     <option name="height" value="760" />
   </component>
@@ -198,6 +198,7 @@
       <recent name="$PROJECT_DIR$/path_demo/images/a/b" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/code" />
       <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
@@ -229,12 +230,12 @@
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
-      <workItem from="1531136003494" duration="5440000" />
+      <workItem from="1531136003494" duration="5930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56295000" />
+    <option name="totallyTimeSpent" value="56785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,7 +247,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="843" y="95" width="1269" height="760" extended-state="0" />
+    <frame x="863" y="440" width="1269" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18349358" />
@@ -317,13 +318,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/01_paragarph-element/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -672,8 +666,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/03-css_text_attr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="88">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/03-css_text_attr_shortform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
