@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/000_simple-html-document.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/000_simple-html-document.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/CSS_Rule-Set.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/CSS_Rule-Set.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/000_simple-html-document/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/01_paragarph-element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/01_paragarph-element/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/02_heading-element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/02_heading-element/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/a_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/br_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/br_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/char_entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/char_entity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/charset.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/charset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/details_summary_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/details_summary_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/example_1-note" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/example_1-note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/exmaple_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/exmaple_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_button.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_dalist_html5_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_example_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_example_register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_input.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_input.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_label.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_label.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_select.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/header-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/header-tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/img_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/img_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_dl.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_dl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_dl_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ol.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/marquee_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/marquee_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/path_question.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/path_question.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_merge.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_merge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_merge_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_merge_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_structer.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_structer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_attr.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_attr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_homework_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_homework_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_homework_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_homework_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tiny_line_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/table_tiny_line_table_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_tags/video_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/video_tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/letter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/letter.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table2/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table2/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table2/html+css.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table2/html+css.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/table3/photo_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_demo/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_demo/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_demo/images/a/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/a/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_demo/images/a/b/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/a/b/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,19 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="char_entity.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/005_tags/char_entity.html">
+      <file leaf-file-name="01-CSS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/01-CSS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding>
-                <element signature="e#138#144#0" expanded="true" />
-                <element signature="e#144#150#0" expanded="true" />
-                <element signature="e#150#156#0" expanded="true" />
-                <element signature="e#179#183#0" expanded="true" />
-                <element signature="e#185#189#0" expanded="true" />
-                <element signature="e#207#213#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="123">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -169,6 +95,7 @@
         <option value="$PROJECT_DIR$/005_tags/details_summary_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/marquee_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/char_entity.html" />
+        <option value="$PROJECT_DIR$/CSS/code/01-CSS.html" />
       </list>
     </option>
   </component>
@@ -188,8 +115,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="71" />
+    <option name="x" value="911" />
+    <option name="y" value="23" />
     <option name="width" value="1269" />
     <option name="height" value="865" />
   </component>
@@ -232,6 +159,17 @@
             <path>
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,12 +226,12 @@
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
-      <workItem from="1531136003494" duration="541000" />
+      <workItem from="1531136003494" duration="2042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51396000" />
+    <option name="totallyTimeSpent" value="52897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,10 +243,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="842" y="131" width="1269" height="865" extended-state="0" />
+    <frame x="901" y="23" width="1269" height="865" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47275642" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18349358" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39898348" />
@@ -376,13 +314,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/charset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -733,6 +664,13 @@
             <element signature="e#185#189#0" expanded="true" />
             <element signature="e#207#213#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/01-CSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
