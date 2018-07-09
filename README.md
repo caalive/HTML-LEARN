@@ -322,3 +322,22 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 	- 在缩写格式中，有些属性值可以省略 style weight可以省略掉。
 	- 在缩写格式中，有些属性值是不可以省略掉，size family不能省略。
 	- size 和 family 位置不能随意调换，size必须写在family 前面，并且这两个属性必须写在，其它属性值的后面。
+
+## CSS文本相关属性
+- 文本装饰的属性
+	- td text-decoration
+		- 取值
+			- underline 		添加下划线
+			- linethrough		添加删除线
+			- overline		添加上划线
+			- none				去除下划线,用于去除超链接下划线
+- 文本水平对齐的属性
+	- ta text-align
+		- 取值
+			- left		左对齐
+			- rigth	右对齐
+			- center	中心对齐
+- 文本缩进的属性
+	- ti text-indent
+		- 取值
+			- em 前缀为数字,常用取值为2em,一个em代表缩进一个文字的宽度。
