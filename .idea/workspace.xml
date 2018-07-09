@@ -2,7 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/000_simple-html-document.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/000_simple-html-document.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/CSS_Rule-Set.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/CSS_Rule-Set.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/000_simple-html-document/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/000_simple-html-document/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/01_paragarph-element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/01_paragarph-element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/02_heading-element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/02_heading-element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/a_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/a_tag_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/a_tag_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/br_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/br_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/char_entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/char_entity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/charset.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/charset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/details_summary_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/details_summary_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/example_1-note" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/example_1-note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/exmaple_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/exmaple_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_button.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_dalist_html5_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_example_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_example_register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_input.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_label.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_label.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/form_tag_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/form_tag_select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/header-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/header-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/img_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/img_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_dl.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_dl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_dl_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ol.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/list_tags_ul_example_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/marquee_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/marquee_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/path_question.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/path_question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_merge.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_merge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_merge_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_merge_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_structer.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_structer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_attr.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_attr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_homework_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_homework_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tag_homework_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tag_homework_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tiny_line_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/table_tiny_line_table_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_tags/video_tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/005_tags/video_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/letter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/letter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table2/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table2/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table2/html+css.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table2/html+css.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/table3/photo_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/table3/photo_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_demo/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_demo/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_demo/images/a/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/a/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_demo/images/a/b/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/images/a/b/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/path_demo/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,17 +85,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="char_entity.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005_tags/char_entity.html">
+        <entry file="file://$PROJECT_DIR$/HTML/005_tags/char_entity.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="242">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding>
-                <element signature="e#135#141#0" expanded="true" />
-                <element signature="e#141#147#0" expanded="true" />
-                <element signature="e#147#153#0" expanded="true" />
-                <element signature="e#168#172#0" expanded="true" />
-                <element signature="e#174#178#0" expanded="true" />
-                <element signature="e#189#195#0" expanded="true" />
+                <element signature="e#138#144#0" expanded="true" />
+                <element signature="e#144#150#0" expanded="true" />
+                <element signature="e#150#156#0" expanded="true" />
+                <element signature="e#179#183#0" expanded="true" />
+                <element signature="e#185#189#0" expanded="true" />
+                <element signature="e#207#213#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,8 +188,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="501" />
-    <option name="y" value="805" />
+    <option name="x" value="226" />
+    <option name="y" value="71" />
     <option name="width" value="1269" />
     <option name="height" value="865" />
   </component>
@@ -167,11 +233,6 @@
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="005_tags" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,15 +249,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/005_tags" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/path_demo" />
       <recent name="$PROJECT_DIR$/path_demo/images/a/b" />
-      <recent name="$PROJECT_DIR$/path_demo/images/a" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,12 +287,13 @@
       <workItem from="1530706988730" duration="4336000" />
       <workItem from="1530793669231" duration="7469000" />
       <workItem from="1530878704044" duration="22142000" />
-      <workItem from="1531010414864" duration="14215000" />
+      <workItem from="1531010414864" duration="14450000" />
+      <workItem from="1531136003494" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50620000" />
+    <option name="totallyTimeSpent" value="51396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,14 +305,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="321" y="517" width="1269" height="865" extended-state="0" />
+    <frame x="842" y="131" width="1269" height="865" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20432693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47275642" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39898348" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49923664" weight="0.39898348" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,6 +329,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,115 +376,115 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/005_tags/charset.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/charset.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/000_simple-html-document/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/01_paragarph-element/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/01_paragarph-element/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/000_simple-html-document/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/000_simple-html-document/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/02_heading-element/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/02_heading-element/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/01_paragarph-element/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/01_paragarph-element/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/000_simple-html-document/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/example_1-note">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/example_1-note">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="188" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="188" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/exmaple_1.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/exmaple_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/charset.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/charset.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/img_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/img_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/br_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/br_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/letter.jpg">
+    <entry file="file://$PROJECT_DIR$/HTML/images/letter.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/path_question.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/path_question.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
@@ -434,133 +496,133 @@
         <state relative-caret-position="-364" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path_demo/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/path_demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/a_tag_example.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/a_tag_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/a_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/a_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/a_tag_1.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/a_tag_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/a_tag_2.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/a_tag_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_ul.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ul.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_ul_example.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_ul_example_1.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_ul_example_2.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ul_example_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="4" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_ol.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ol.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_dl.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_dl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/list_tags_dl_example.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_dl_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tag_attr.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag_attr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tiny_line_table.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tiny_line_table_example.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tiny_line_table_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_structer.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_structer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_merge.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_merge.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_merge_example.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_merge_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
@@ -572,104 +634,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_1.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag_homework_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="15" column="68" lean-forward="true" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/table3/photo_1.jpg">
+    <entry file="file://$PROJECT_DIR$/HTML/images/table3/photo_1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/table_tag_homework_2.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag_homework_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_button.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_button.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/header-tags.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/header-tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_input.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_input.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_dalist_html5_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_label.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_label.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_select.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_select.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/video_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/video_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/details_summary_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/details_summary_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/marquee_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/marquee_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/form_tag_example_register.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_example_register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/005_tags/char_entity.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/char_entity.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="242">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
-            <element signature="e#135#141#0" expanded="true" />
-            <element signature="e#141#147#0" expanded="true" />
-            <element signature="e#147#153#0" expanded="true" />
-            <element signature="e#168#172#0" expanded="true" />
-            <element signature="e#174#178#0" expanded="true" />
-            <element signature="e#189#195#0" expanded="true" />
+            <element signature="e#138#144#0" expanded="true" />
+            <element signature="e#144#150#0" expanded="true" />
+            <element signature="e#150#156#0" expanded="true" />
+            <element signature="e#179#183#0" expanded="true" />
+            <element signature="e#185#189#0" expanded="true" />
+            <element signature="e#207#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
