@@ -282,5 +282,12 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 - CSS标签需要写在head标签的开始和结束标签之间。
 - CSS定义格式为：
 	- `<style type="text/css"> XXX </stype>`
-
+	- css有个属性 type， type取值为 "text/css"。
+	- `css 选择格式为：标签名称{属性名称:属性值;}
+	`
+- 注意点：
+	- css代码必须写在style标签中，style标签必须写在head标签里面。
+	- style标签中的type其实可以不用写，默认的就是type="text/css"
+	- 设置样式时，必修按照固定格式来设置: key:value;
+	- 其中`:`不能省略.`;`大多数情况下不能省略。
 
