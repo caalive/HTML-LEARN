@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_selector_id.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id.html">
+      <file leaf-file-name="css_selctor_classname.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_selctor_classname.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="228">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/000_simple-html-document/index.html" />
         <option value="$PROJECT_DIR$/005_tags/charset.html" />
         <option value="$PROJECT_DIR$/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/color_attr.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_tag.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_selctor_classname.html" />
       </list>
     </option>
   </component>
@@ -120,10 +120,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="822" />
-    <option name="y" value="227" />
-    <option name="width" value="1269" />
-    <option name="height" value="760" />
+    <option name="x" value="772" />
+    <option name="y" value="115" />
+    <option name="width" value="1197" />
+    <option name="height" value="651" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -233,12 +233,12 @@
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
       <workItem from="1531136003494" duration="7582000" />
-      <workItem from="1531222869748" duration="2698000" />
+      <workItem from="1531222869748" duration="3600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61135000" />
+    <option name="totallyTimeSpent" value="62037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,10 +250,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="817" y="266" width="1269" height="760" extended-state="0" />
+    <frame x="772" y="115" width="1197" height="651" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18349358" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18282314" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39898348" />
@@ -321,13 +321,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/000_simple-html-document/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -663,8 +656,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="82">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_selctor_classname.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
