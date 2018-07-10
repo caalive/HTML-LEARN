@@ -18,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_selctor_classname.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_selctor_classname.html">
+      <file leaf-file-name="css_selector_id_and_class.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="113">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css_selector_id_and_class.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html">
+      <file leaf-file-name="css_selector_posterity.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_posterity.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="315">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -59,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/header-tags.html" />
         <option value="$PROJECT_DIR$/005_tags/example_1-note" />
@@ -110,6 +109,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selctor_classname.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_selector_posterity.html" />
       </list>
     </option>
   </component>
@@ -129,10 +129,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1254" />
-    <option name="y" value="102" />
+    <option name="x" value="932" />
+    <option name="y" value="201" />
     <option name="width" value="1197" />
-    <option name="height" value="651" />
+    <option name="height" value="715" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -242,12 +242,12 @@
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
       <workItem from="1531136003494" duration="7582000" />
-      <workItem from="1531222869748" duration="4464000" />
+      <workItem from="1531222869748" duration="5498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62901000" />
+    <option name="totallyTimeSpent" value="63935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,10 +259,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="976" y="59" width="1197" height="651" extended-state="0" />
+    <frame x="928" y="276" width="1197" height="651" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18282314" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23979592" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39898348" />
@@ -330,13 +330,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/example_1-note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="188" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="188" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/exmaple_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -672,8 +665,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="113">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_posterity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
