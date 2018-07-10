@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_selctor_classname.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css_selctor_classname.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/code/css_selctor_classname.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="209">
+              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_selector_id_and_class.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -50,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/charset.html" />
         <option value="$PROJECT_DIR$/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/03_DTD-documentDeclaration.html" />
         <option value="$PROJECT_DIR$/005_tags/header-tags.html" />
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_selector_tag.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selctor_classname.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html" />
       </list>
     </option>
   </component>
@@ -120,8 +129,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="772" />
-    <option name="y" value="115" />
+    <option name="x" value="1254" />
+    <option name="y" value="102" />
     <option name="width" value="1197" />
     <option name="height" value="651" />
   </component>
@@ -233,12 +242,12 @@
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
       <workItem from="1531136003494" duration="7582000" />
-      <workItem from="1531222869748" duration="3600000" />
+      <workItem from="1531222869748" duration="4464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62037000" />
+    <option name="totallyTimeSpent" value="62901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +259,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="772" y="115" width="1197" height="651" extended-state="0" />
+    <frame x="976" y="59" width="1197" height="651" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18282314" />
@@ -321,13 +330,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/03_DTD-documentDeclaration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/example_1-note">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -663,8 +665,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_selctor_classname.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="209">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
