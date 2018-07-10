@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_selector_posterity_and_subelement.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_posterity_and_subelement.html">
+      <file leaf-file-name="css_selector_intersection.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_intersection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="484">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/example_1-note" />
         <option value="$PROJECT_DIR$/005_tags/exmaple_1.html" />
         <option value="$PROJECT_DIR$/005_tags/img_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/br_tag.html" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_selector_posterity.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_sub_element.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_posterity_and_subelement.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_selector_intersection.html" />
       </list>
     </option>
   </component>
@@ -120,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="568" />
-    <option name="y" value="296" />
+    <option name="x" value="1078" />
+    <option name="y" value="267" />
     <option name="width" value="1197" />
     <option name="height" value="727" />
   </component>
@@ -233,12 +233,12 @@
       <workItem from="1530878704044" duration="22142000" />
       <workItem from="1531010414864" duration="14450000" />
       <workItem from="1531136003494" duration="7582000" />
-      <workItem from="1531222869748" duration="7092000" />
+      <workItem from="1531222869748" duration="7654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65529000" />
+    <option name="totallyTimeSpent" value="66091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +250,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="568" y="296" width="1197" height="727" extended-state="0" />
+    <frame x="1078" y="267" width="1197" height="727" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.23979592" />
@@ -321,13 +321,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/img_tag.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/br_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -663,8 +656,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_posterity_and_subelement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_selector_intersection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
