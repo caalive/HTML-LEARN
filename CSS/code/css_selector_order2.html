@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CSS选择器之顺序选择器</title>
+
+        <style type="text/css">
+
+           /*p:nth-child(odd){*/
+               /*color:red;*/
+
+           /*}*/
+
+            /*p:nth-child(even){*/
+                /*color:blue;*/
+            /*}*/
+
+            /*p:nth-of-type(odd){*/
+                /*color:red;*/
+            /*}*/
+
+            /*p:nth-of-type(even){*/
+                /*color:blue;*/
+            /*}*/
+
+            /*p:nth-child(2n+0){*/
+                /*color:red;*/
+            /*}*/
+            p:nth-of-type(2n+0){
+                color:blue;
+            }
+
+
+        </style>
+
+    </head>
+    <body>
+        <h1>我是标题1</h1>
+        <p>我是项目1</p>
+        <p>我是项目2</p>
+        <p>我是项目3</p>
+        <h1>我是标题2</h1>
+        <p>我是项目4</p>
+        <p>我是项目5</p>
+        <p>我是项目6</p>
+        <h1>我是标题3</h1>
+        <p>我是项目7</p>
+        <p>我是项目8</p>
+        <p>我是项目9</p>
+
+    </body>
+</html>

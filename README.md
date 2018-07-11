@@ -454,6 +454,9 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- `labelname:nth-child(nth){attrname:attrvalue}`选中同级别的第nth个标签
 			- `labelname:nth-last-child(nth){attrname:attrvalue}`选中同级别倒数的第nth个标签
 			- `labelname:only-child{attrname:attrvalue}`选中父元素中唯一的元素
+			- `lablename:nth-child(odd){attrname:attrvalue}`选中同级别中所有的奇数标签
+			- `lablename:nth-child(even){attrname:attrvalue}`选中同级别中所有的偶数标签
+			- `labelname:nth-child(xn+y){attrname:attrvalue}`选中同级别中所有的用户自定义的顺序标签,其中x为系数，n为同级别标签个数从0开始递增，y为加数
 			- 注意点：
 				- 同一级别的不区分类型
 		- 同类型的第几个
@@ -462,4 +465,7 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- `labelname:nth-of-type(nth){attrname:attrvalue}`选中同类型的第nth个标签
 			- `labelname:nth-last-of-type(nth){attrname:attrvalue}`选中同类型的倒数第nth个标签
 			- `labelname:only-of-type{attrname:attrvalue}`选中父元素中唯一类型的某个元素
+			- `labelname:nth-of-type(odd){attrname:attrvalue}`选中同类型中所有的奇数标签
+			- `labelname:nth-of-type(even){attrname:attrvalue}`选中同类型的所有偶数标签
+			- `labelname:nth-of-type(xn+y){attrname:attrvalue}`选中同类型的用户自定义的顺序标签，其中x为系数，n为同类型标签个数从0开始递增，y为加数
 	- 序选择器应用场景为不方便设置id和类名的时候使用,或者要从一堆标签中筛选出某类标签时使用，某些标签时使用。
