@@ -446,3 +446,20 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- 相邻兄弟选择器只能选中紧跟其后的那个标签
 			- 通用兄弟选择器必须使用`~`波浪线作为连接符号
 			- 通用兄弟选择器选中的是指定选择器选中的所有标签
+	- 序选择器
+		- CSS3中新增的选择器最具代表性的就是序选择器。
+		- 同级别的第几个
+			- `labelname:first-child{attrname:attrvalue}`选中同级别的第一个标签
+			- `labelname:last-child{attrname:attrvalue}`选中同级别的最后一个标签
+			- `labelname:nth-child(nth){attrname:attrvalue}`选中同级别的第nth个标签
+			- `labelname:nth-last-child(nth){attrname:attrvalue}`选中同级别倒数的第nth个标签
+			- `labelname:only-child{attrname:attrvalue}`选中父元素中唯一的元素
+			- 注意点：
+				- 同一级别的不区分类型
+		- 同类型的第几个
+			- `labelname:first-of-type{attrname:attrvalue}`选中同级别的同类型的第一个标签
+			- `labelname:last-of-type{attrname:attrvalue}`选中同级别的同类型的最后一个标签
+			- `labelname:nth-of-type(nth){attrname:attrvalue}`选中同类型的第nth个标签
+			- `labelname:nth-last-of-type(nth){attrname:attrvalue}`选中同类型的倒数第nth个标签
+			- `labelname:only-of-type{attrname:attrvalue}`选中父元素中唯一类型的某个元素
+	- 序选择器应用场景为不方便设置id和类名的时候使用,或者要从一堆标签中筛选出某类标签时使用，某些标签时使用。
