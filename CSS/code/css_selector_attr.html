@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CSS选择器之属性</title>
+
+        <style type="text/css">
+
+            /*p[id]{*/
+                /*color: red;*/
+            /*}*/
+            /*p[class="par1"]{*/
+                /*color:blue;*/
+            /*}*/
+
+
+            /*img[alt^="abc"]{*/
+                /*color:red;*/
+            /*}*/
+
+            /*img[alt|="abc"]{*/
+                /*color:red;*/
+            /*}*/
+
+            /*img[alt$="abc"]{*/
+                /*color:blue;*/
+            /*}*/
+
+            img[alt~="abc"]{
+                color:brown;
+            }
+
+        </style>
+
+    </head>
+    <body>
+
+        <img src="" alt="abcdef">
+        <img src="" alt="abc-www">
+        <img src="" alt="abc ppp">
+        <img src="" alt="defabc">
+        <img src="" alt="ppp abc">
+        <img src="" alt="www-abc">
+        <img src="" alt="qq">
+        <img src="" alt="yy">
+
+        <p id="indentity1">我是段落1</p>
+        <p id="indentity2">我是段落2</p>
+        <p id="indentity3">我是段落3</p>
+        <p id="indentity4">我是段落4</p>
+
+        <p class="par1">我是段落5</p>
+        <p class="par1">我是段落6</p>
+        <p class="par2">我是段落6</p>
+
+
+
+        <p>我是段落5</p>
+        <a href=""></a>
+        <ul>
+            <li>
+                <ul>
+                    <li>
+                        <p>我是段落在li里面</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </body>
+</html>

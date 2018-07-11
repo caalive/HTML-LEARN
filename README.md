@@ -469,3 +469,19 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- `labelname:nth-of-type(even){attrname:attrvalue}`选中同类型的所有偶数标签
 			- `labelname:nth-of-type(xn+y){attrname:attrvalue}`选中同类型的用户自定义的顺序标签，其中x为系数，n为同类型标签个数从0开始递增，y为加数
 	- 序选择器应用场景为不方便设置id和类名的时候使用,或者要从一堆标签中筛选出某类标签时使用，某些标签时使用。
+	- 属性选择器
+		- 什么是属性选择器
+			- 根据指定的属性名称，找到对应的标签然后设置属性
+		- 格式：`labelname[id]{attrname:attrvalue}`另一种是`labelname[attrname=somevalue]{attrname:attrvalue}`
+		- 属性的取值是以什么开头的
+			- `labelname[attrname|=value]{attrname:attrvalue}->CSS3` 
+			- `labelname[attrname^=value]{attrname:attrvalue}->CSS2`
+			- CSS2的只能找到value开头，并且value是被`-`短横和其它内容间隔开的
+			- CSS3中的只要是以value来头的都可以被找到，无论有没有被间隔开
+		- 属性的取值是以什么结尾的
+			- `labelname[attrname$=value]{attrname:attrvalue}->CSS3`
+		- 属性的取值是否包含某个特定的值
+			- `labelname[attrname~=value]{attrname:attrvalue}->CSS2`
+			- `labelname[attrname*=value]{attrnameLattrvalue}->CSS3`
+			- CSS2只能找到被空格间隔开来的，只能找到独立的单词
+			- CSS3只要包含value都能被找到
