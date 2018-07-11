@@ -485,3 +485,8 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- `labelname[attrname*=value]{attrnameLattrvalue}->CSS3`
 			- CSS2只能找到被空格间隔开来的，只能找到独立的单词
 			- CSS3只要包含value都能被找到
+	- 通配符选择器
+		- 格式：`*{attrname:attvalue}`
+		- 给当前页面所有的元素设置属性
+		- 注意点：
+			- 由于通配符选择器是设置界面上所有元素，会遍历所有标签，性能较差一般不使用
