@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CSS三大特性之权重</title>
+        <style type="text/css">
+
+            #identity1 .box2{
+                color:red;
+            }
+
+            .box1 .box2{
+                color:green;
+            }
+
+            div ul li p {
+                color:blue;
+            }
+
+
+        </style>
+    </head>
+    <body>
+
+        <div id="identity1" class="box1">
+            <ul>
+                <li>
+                    <p id="identity2" class="box2"> 我是段落在li中</p>
+                    <a href="#">我是超链接</a>
+                </li>
+            </ul>
+        </div>
+
+    </body>
+</html>
