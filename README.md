@@ -200,8 +200,7 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 		- 表格的主体信息
 		- 页尾信息
 - 表格的完整结构
-` <atble> <caption> 表格的标题 </caption> <thead></thead> <tr> <th> 表格的表头 </th> </tr> <tbody> <tr> </tr><td> 表格的数据 </td></tbody> <tfoot> <tr> <td> 表格尾部信息</td> </tr></tfoot>
-</table>`
+` <atble> <caption> 表格的标题 </caption> <thead></thead> <tr> <th> 表格的表头 </th> </tr> <tbody> <tr> </tr><td> 表格的数据 </td></tbody> <tfoot> <tr> <td> 表格尾部信息</td> </tr></tfoot></table>`
 
 - caption作用：指定表格的标题
 - thead的作用：指定表格的表头信息
@@ -474,8 +473,8 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- 根据指定的属性名称，找到对应的标签然后设置属性
 		- 格式：`labelname[id]{attrname:attrvalue}`另一种是`labelname[attrname=somevalue]{attrname:attrvalue}`
 		- 属性的取值是以什么开头的
-			- `labelname[attrname|=value]{attrname:attrvalue}->CSS3` 
-			- `labelname[attrname^=value]{attrname:attrvalue}->CSS2`
+			- `labelname[attrname|=value]{attrname:attrvalue}->CSS2` 
+			- `labelname[attrname^=value]{attrname:attrvalue}->CSS3`
 			- CSS2的只能找到value开头，并且value是被`-`短横和其它内容间隔开的
 			- CSS3中的只要是以value来头的都可以被找到，无论有没有被间隔开
 		- 属性的取值是以什么结尾的
