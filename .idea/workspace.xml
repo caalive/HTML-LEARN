@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/code/css_selector_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/code/css_selector_example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_features_inheritance.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_features_inheritance.html">
+      <file leaf-file-name="css_features_cascading.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_features_cascading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state>
+              <caret selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -52,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/a_tag_2.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_ul.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_ul——example.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_ul_example_1.html" />
@@ -103,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_selector_commonsign.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_inheritance.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_features_nesting.html" />
       </list>
     </option>
   </component>
@@ -122,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="648" />
-    <option name="y" value="852" />
+    <option name="x" value="667" />
+    <option name="y" value="492" />
     <option name="width" value="1197" />
     <option name="height" value="912" />
   </component>
@@ -237,12 +235,12 @@
       <workItem from="1531136003494" duration="7582000" />
       <workItem from="1531222869748" duration="8277000" />
       <workItem from="1531311987725" duration="6898000" />
-      <workItem from="1531395495831" duration="3993000" />
+      <workItem from="1531395495831" duration="4635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77605000" />
+    <option name="totallyTimeSpent" value="78247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,7 +252,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="852" width="1197" height="912" extended-state="0" />
+    <frame x="667" y="492" width="1197" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28146258" />
@@ -325,13 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/a_tag_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ul.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -673,8 +664,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_features_inheritance.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="42">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_features_cascading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
