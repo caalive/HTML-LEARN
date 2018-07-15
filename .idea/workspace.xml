@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01-CSS.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/code/01-CSS.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="div_tag.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/005_tags/div_tag.html">
+      <file leaf-file-name="css_display_model.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -60,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/list_tags_ol.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_dl.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag.html" />
@@ -111,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_features_important_priority.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_weights_priority.html" />
         <option value="$PROJECT_DIR$/HTML/005_tags/div_tag.html" />
+        <option value="$PROJECT_DIR$/HTML/005_tags/css_display_model.html" />
       </list>
     </option>
   </component>
@@ -130,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
-    <option name="y" value="97" />
+    <option name="x" value="1077" />
+    <option name="y" value="501" />
     <option name="width" value="1197" />
     <option name="height" value="761" />
   </component>
@@ -247,12 +237,12 @@
       <workItem from="1531311987725" duration="6898000" />
       <workItem from="1531395495831" duration="7222000" />
       <workItem from="1531481359065" duration="1018000" />
-      <workItem from="1531630738718" duration="279000" />
+      <workItem from="1531630738718" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82131000" />
+    <option name="totallyTimeSpent" value="82963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +254,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="888" y="148" width="1197" height="761" extended-state="0" />
+    <frame x="1077" y="501" width="1197" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28146258" />
@@ -335,13 +325,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_ol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_dl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -674,17 +657,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/div_tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/01-CSS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="265">
           <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/div_tag.html">
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
