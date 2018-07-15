@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="css_display_model.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model.html">
+      <file leaf-file-name="css_display_model_translation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model_translation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="254">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/list_tags_dl.html" />
         <option value="$PROJECT_DIR$/005_tags/list_tags_dl_example.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag_attr.html" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_features_weights_priority.html" />
         <option value="$PROJECT_DIR$/HTML/005_tags/div_tag.html" />
         <option value="$PROJECT_DIR$/HTML/005_tags/css_display_model.html" />
+        <option value="$PROJECT_DIR$/HTML/005_tags/css_display_model_translation.html" />
       </list>
     </option>
   </component>
@@ -120,10 +120,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1077" />
-    <option name="y" value="501" />
-    <option name="width" value="1197" />
-    <option name="height" value="761" />
+    <option name="x" value="590" />
+    <option name="y" value="104" />
+    <option name="width" value="1041" />
+    <option name="height" value="665" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -192,16 +192,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/code" />
-      <recent name="$PROJECT_DIR$/005_tags" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/path_demo" />
       <recent name="$PROJECT_DIR$/path_demo/images/a/b" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/005_tags" />
+      <recent name="$PROJECT_DIR$/CSS/code" />
+      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,12 +238,12 @@
       <workItem from="1531311987725" duration="6898000" />
       <workItem from="1531395495831" duration="7222000" />
       <workItem from="1531481359065" duration="1018000" />
-      <workItem from="1531630738718" duration="1111000" />
+      <workItem from="1531630738718" duration="1747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82963000" />
+    <option name="totallyTimeSpent" value="83599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,7 +255,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1077" y="501" width="1197" height="761" extended-state="0" />
+    <frame x="590" y="104" width="1041" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28146258" />
@@ -325,13 +326,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_dl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/list_tags_dl_example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -673,8 +667,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/005_tags/css_display_model_translation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
