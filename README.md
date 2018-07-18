@@ -575,3 +575,13 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- repeat-y 垂直平铺
 		- 应用场景
 			- 可以通过背景图片的平铺降低图片的大小，节省网络带宽
+- 背景定位
+	- 同一个标签可以同时设定背景颜色和图片，如果颜色和图片同时存在，图片会覆盖颜色.
+	- 在CSS中有一个background-position 属性，就是专门用来控制背景图片的位置.
+	- 格式: `background-position: x y `其中 x y 为水平方向和垂直方向的位置。
+	- 取值具体方位：
+		- 水平方向： left center right
+		- 垂直方向:  top center bottom
+	- 取值具体像素值:
+		- background-position: 100px 200px, 具体像素值时，一定要加上单位:px
+		- 具体的像素值可以设置为负数.

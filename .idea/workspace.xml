@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_bg_h.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_h.html">
+      <file leaf-file-name="css_bg_position.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_position.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="322">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/table_tiny_line_table_example.html" />
         <option value="$PROJECT_DIR$/005_tags/table_structer.html" />
         <option value="$PROJECT_DIR$/005_tags/table_merge.html" />
         <option value="$PROJECT_DIR$/005_tags/table_merge_example.html" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_bgcolor.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_bg_img.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_bg_h.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_bg_position.html" />
       </list>
     </option>
   </component>
@@ -120,10 +120,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="969" />
-    <option name="y" value="77" />
+    <option name="x" value="893" />
+    <option name="y" value="42" />
     <option name="width" value="1363" />
-    <option name="height" value="858" />
+    <option name="height" value="859" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -244,12 +244,12 @@
       <workItem from="1531395495831" duration="7222000" />
       <workItem from="1531481359065" duration="1018000" />
       <workItem from="1531630738718" duration="5875000" />
-      <workItem from="1531917429611" duration="1922000" />
+      <workItem from="1531917429611" duration="2831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89649000" />
+    <option name="totallyTimeSpent" value="90558000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,10 +261,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="366" y="23" width="1363" height="858" extended-state="0" />
+    <frame x="893" y="42" width="1363" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.280924" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.280924" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.39898348" />
@@ -332,13 +332,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_structer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -680,8 +673,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_h.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="263">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
