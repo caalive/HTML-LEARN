@@ -556,3 +556,8 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 			- block 设置为块级
 			- inline 设置为行内
 			- inline-block 设置为行内块级
+## CSS 背景和精灵图
+- CSS背景颜色
+	- background-color属性专门用来设置标签的背景颜色的
+	- 取值：
+		- 可以是具体的单词/rgb/rgba
