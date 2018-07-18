@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/code/css_bg_position.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/code/css_bg_position.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="css_bg_position.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_position.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="297">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -120,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="893" />
-    <option name="y" value="42" />
+    <option name="x" value="854" />
+    <option name="y" value="116" />
     <option name="width" value="1363" />
     <option name="height" value="859" />
   </component>
@@ -244,12 +244,12 @@
       <workItem from="1531395495831" duration="7222000" />
       <workItem from="1531481359065" duration="1018000" />
       <workItem from="1531630738718" duration="5875000" />
-      <workItem from="1531917429611" duration="2831000" />
+      <workItem from="1531917429611" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90558000" />
+    <option name="totallyTimeSpent" value="91075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,7 +261,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="893" y="42" width="1363" height="859" extended-state="0" />
+    <frame x="731" y="94" width="1363" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.280924" />
@@ -680,8 +680,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_position.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="297">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
