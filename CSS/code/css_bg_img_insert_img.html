@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CSS背景图片和插入图片的区别</title>
+        <style type="text/css">
+
+            div{
+                width: 600px;
+                height: 600px;
+                background-color: red;
+                background-position: right bottom;
+                background-repeat: no-repeat;
+            }
+
+
+            .box1{
+                background-image: url("../images/chouxiang.jpg");
+            }
+
+
+        </style>
+    </head>
+    <body>
+
+    <div class="box1">
+        我是文字
+
+    </div>
+
+    <div class="box2">
+        <img src="../images/chouxiang.jpg" alt="">
+        我是文字
+    </div>
+
+
+    </body>
+</html>
