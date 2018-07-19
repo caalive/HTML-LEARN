@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,18 +18,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_bg_img_example.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_img_example.html">
+      <file leaf-file-name="css_jinglingtu.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_jinglingtu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="242">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="by2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/images/by2.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -53,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/table_tag_homework_1.html" />
         <option value="$PROJECT_DIR$/005_tags/table_tag_homework_2.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_input.html" />
@@ -104,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_bg_position_2.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_bg_img_insert_img.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_bg_img_example.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_jinglingtu.html" />
       </list>
     </option>
   </component>
@@ -123,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="852" />
-    <option name="y" value="23" />
+    <option name="x" value="698" />
+    <option name="y" value="24" />
     <option name="width" value="1363" />
     <option name="height" value="859" />
   </component>
@@ -172,12 +169,6 @@
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
@@ -254,12 +245,12 @@
       <workItem from="1531481359065" duration="1018000" />
       <workItem from="1531630738718" duration="5875000" />
       <workItem from="1531917429611" duration="4717000" />
-      <workItem from="1532005154291" duration="2354000" />
+      <workItem from="1532005154291" duration="4370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94798000" />
+    <option name="totallyTimeSpent" value="96814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,10 +262,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="722" y="35" width="1363" height="859" extended-state="0" />
+    <frame x="619" y="124" width="1363" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18181819" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31371087" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022355" side_tool="true" weight="0.6784777" />
@@ -342,13 +333,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/005_tags/table_tag_homework_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/005_tags/form_tag_button.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -686,8 +670,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_bg_img_example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="66">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_jinglingtu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
