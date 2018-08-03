@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>边框属性练习</title>
+
+        <style type="text/css">
+            div{
+                width: 50px;
+                height: 50px;
+            }
+
+            .box1{
+                border: 5px solid black; //样式连写
+            }
+
+            .box2{
+
+                /*
+                border-top: 5px solid red;
+                border-right: 5px solid green;
+                border-left: 5px solid blue;
+                border-bottom: 5px solid purple;
+                */
+
+                border-width: 5px;
+                border-style: solid;
+                border-color: red green blue purple;
+
+            }
+            
+            .box3{
+
+                border: 5px solid red;
+                border-right:5px dashed red;
+                
+            }
+
+            .box4{
+
+                /*
+                border: 5px solid red;
+                border-right:5px dashed red;
+                border-left:5px dashed red;
+                */
+
+                border: 5px solid red;
+                border-style: solid dashed solid dashed;
+
+            }
+
+            .box5{
+                border: 5px solid;
+                border-bottom:none;  /*none 表示不需要边框*/
+            }
+
+            .box6{
+
+                width: 0px;
+                height: 0px;
+                border-width: 25px;
+                border-style: solid;
+                border-color: red white blue white;
+                border-bottom: none;
+
+            }
+
+
+        </style>
+    </head>
+
+    <body>
+
+        <div class="box1"></div>
+        <hr>
+        <div class="box2"></div>
+        <hr>
+        <div class="box3"></div>
+        <hr>
+        <div class="box4"></div>
+        <hr>
+        <div class="box5"></div>
+        <hr>
+        <div class="box6"></div>
+
+    </body>
+</html>
