@@ -634,6 +634,18 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 	- padding-rigth xx px;
 	- padding-bottom xx px;
 	- padding-left xx px;
+	- 连写 padding：上 右 下 左
 - 注意点：
 	- 给标签设置内边距时，高度和宽度会发生变化
 	- 内边距也会有背景颜色
+
+- 什么是外边距
+	标签与标签之间的距离就是外边距
+- 格式：
+	- margin-top: xx px;
+	- margin-rigth xx px;
+	- margin-bottom xx px;
+	- margin-left xx px;
+	- 连写 margin: 上 右 下 左
+- 注意点：
+	- 外边距没有背景颜色
