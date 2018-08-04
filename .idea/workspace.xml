@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_box_model.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css_box_model.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/code/css_box_model.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="308">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_box_model_width_height.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_box_model_width_height.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/form_tag_select.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_example.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_example_register.html" />
         <option value="$PROJECT_DIR$/005_tags/video_tag.html" />
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_model_outside_border.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_model_outside_border_union.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_box_model.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_box_model_width_height.html" />
       </list>
     </option>
   </component>
@@ -120,8 +129,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1151" />
-    <option name="y" value="323" />
+    <option name="x" value="315" />
+    <option name="y" value="107" />
     <option name="width" value="1137" />
     <option name="height" value="793" />
   </component>
@@ -254,12 +263,12 @@
       <workItem from="1532005154291" duration="4980000" />
       <workItem from="1532139244457" duration="2817000" />
       <workItem from="1533337980275" duration="8000" />
-      <workItem from="1533337989353" duration="6275000" />
+      <workItem from="1533337989353" duration="6835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106524000" />
+    <option name="totallyTimeSpent" value="107084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,10 +280,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="991" y="124" width="1137" height="793" extended-state="0" />
+    <frame x="668" y="111" width="1137" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27496275" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27419356" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022355" side_tool="true" weight="0.6784777" />
@@ -406,8 +415,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_box_model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_box_model_width_height.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
