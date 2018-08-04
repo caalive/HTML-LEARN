@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_model_outside_border.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_model_outside_border.html">
+      <file leaf-file-name="css_model_outside_border_union.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_model_outside_border_union.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+            <state relative-caret-position="374">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/form_tag_label.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_dalist_html5_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_select.html" />
         <option value="$PROJECT_DIR$/005_tags/form_tag_example.html" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_model_border_attr_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_model_inside_border.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_model_outside_border.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_model_outside_border_union.html" />
       </list>
     </option>
   </component>
@@ -120,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="775" />
-    <option name="y" value="116" />
+    <option name="x" value="706" />
+    <option name="y" value="23" />
     <option name="width" value="1363" />
     <option name="height" value="859" />
   </component>
@@ -254,12 +254,12 @@
       <workItem from="1532005154291" duration="4980000" />
       <workItem from="1532139244457" duration="2817000" />
       <workItem from="1533337980275" duration="8000" />
-      <workItem from="1533337989353" duration="3746000" />
+      <workItem from="1533337989353" duration="4744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103995000" />
+    <option name="totallyTimeSpent" value="104993000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,10 +271,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="775" y="116" width="1363" height="859" extended-state="0" />
+    <frame x="706" y="23" width="1363" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31371087" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27496275" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022355" side_tool="true" weight="0.6784777" />
@@ -392,8 +392,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_model_outside_border.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        <state relative-caret-position="283">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_model_outside_border_union.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
