@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>盒子模型练习</title>
+        <style type="text/css">
+            .content{
+                /*width: 350px;
+                height: 350px;
+                box-sizing:border-box;
+                */
+
+                width: 500px;
+                height: 500px;
+
+                background-color: red;
+
+                border: 1px solid #000;
+
+                /*
+                padding-top: 150px;
+                padding-left: 150px;*/
+
+            }
+
+            .article{
+                width: 200px;
+                height: 200px;
+                background-color: blue;
+                /*border-left: 150px;*/
+                /*border-style: solid;*/
+                /*border-color: red;*/
+
+                /*border-top: 150px;*/
+                /*border-style: solid;*/
+                /*border-color: red;*/
+
+
+                /*
+                   如果两个盒子是嵌套关系，如果设置了里面一个盒子的顶部外边距，外面一个盒子会被顶下来
+                   如果外面的盒子不想被顶下来，那么可以给外边框添加一个边框属性.
+
+                   在企业开发中应首先考虑padding解决方案，其次再考虑margin方案。
+                   margin本质上是用来控制兄弟之间的关系的。
+                */
+
+              margin:150px 150px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <div class="article"></div>
+        </div>
+
+
+    </body>
+</html>
