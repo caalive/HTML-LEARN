@@ -674,3 +674,7 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
 - 在企业开发中应首先考虑padding解决方案，其次再考虑margin方案。margin本质上是用来控制兄弟之间的关系的。
 - 在嵌套关系的盒子中，我们可以利用margin：0 auto；的方式让里面的盒子在外面的盒子中水平居中。
 - margin：0 auto；只对水平方向有效，对垂直方向无效。
+## 盒子居中和内容居中
+- text-align:center; 和 margin:0 auto;区别。
+- text-align:center;让盒子中的内容水平居中
+- margin:0 auto；让盒子自己居中
