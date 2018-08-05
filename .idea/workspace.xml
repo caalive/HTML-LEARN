@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_box_sizing_center.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_box_sizing_center.html">
+      <file leaf-file-name="css_box_clear_default_border.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_box_clear_default_border.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="379">
+              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -53,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005_tags/marquee_tag.html" />
         <option value="$PROJECT_DIR$/005_tags/char_entity.html" />
         <option value="$PROJECT_DIR$/CSS/code/01-CSS.html" />
         <option value="$PROJECT_DIR$/CSS/code/02-css_format.html" />
@@ -104,6 +103,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_box_sizing_attr.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_box_sizing_attr_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_box_sizing_center.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_box_clear_default_border.html" />
       </list>
     </option>
   </component>
@@ -123,8 +123,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="740" />
-    <option name="y" value="78" />
+    <option name="x" value="906" />
+    <option name="y" value="180" />
     <option name="width" value="1137" />
     <option name="height" value="793" />
   </component>
@@ -257,12 +257,12 @@
       <workItem from="1532005154291" duration="4980000" />
       <workItem from="1532139244457" duration="2817000" />
       <workItem from="1533337980275" duration="8000" />
-      <workItem from="1533337989353" duration="12175000" />
+      <workItem from="1533337989353" duration="15593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112424000" />
+    <option name="totallyTimeSpent" value="115842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,7 +274,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="759" y="80" width="1137" height="793" extended-state="0" />
+    <frame x="906" y="180" width="1137" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27419356" />
@@ -285,7 +285,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962743" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939634" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -444,8 +444,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_box_sizing_center.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="274">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_box_clear_default_border.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
         </state>
       </provider>
     </entry>
