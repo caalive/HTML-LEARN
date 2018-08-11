@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_letter_view.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_letter_view.html">
+      <file leaf-file-name="css_webpage_position_union.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_union.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="88">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -51,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/01-CSS.html" />
         <option value="$PROJECT_DIR$/CSS/code/02-css_format.html" />
         <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr.html" />
         <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr_shortform.html" />
@@ -102,6 +104,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_box_sizing_center.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_box_clear_default_border.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_letter_view.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_union.html" />
       </list>
     </option>
   </component>
@@ -121,8 +124,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="797" />
-    <option name="y" value="141" />
+    <option name="x" value="805" />
+    <option name="y" value="46" />
     <option name="width" value="1137" />
     <option name="height" value="793" />
   </component>
@@ -159,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,17 +207,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/code" />
-      <recent name="$PROJECT_DIR$/HTML/005_tags" />
-      <recent name="$PROJECT_DIR$/005_tags" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/images" />
       <recent name="$PROJECT_DIR$/CSS" />
       <recent name="$PROJECT_DIR$/HTML/images" />
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/code" />
+      <recent name="$PROJECT_DIR$/HTML/005_tags" />
+      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,12 +258,13 @@
       <workItem from="1532005154291" duration="4980000" />
       <workItem from="1532139244457" duration="2817000" />
       <workItem from="1533337980275" duration="8000" />
-      <workItem from="1533337989353" duration="16997000" />
+      <workItem from="1533337989353" duration="17594000" />
+      <workItem from="1533944828187" duration="718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117246000" />
+    <option name="totallyTimeSpent" value="118561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,7 +276,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="797" y="141" width="1137" height="793" extended-state="0" />
+    <frame x="961" y="91" width="1137" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27419356" />
@@ -286,14 +290,14 @@
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3297491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -343,6 +347,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_letter_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_jinglingtu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -456,8 +467,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_letter_view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="262">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_union.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
