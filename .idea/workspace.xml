@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_webpage_position_float_tuobiao.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_tuobiao.html">
+      <file leaf-file-name="css_webpage_position_float_rule.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_rule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="375">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr_shortform.html" />
         <option value="$PROJECT_DIR$/CSS/code/03-css_text_attr2.html" />
         <option value="$PROJECT_DIR$/CSS/code/color_attr.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_tag.html" />
@@ -104,6 +103,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_union.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_union.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_tuobiao.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_rule.html" />
       </list>
     </option>
   </component>
@@ -123,8 +123,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="731" />
-    <option name="y" value="140" />
+    <option name="x" value="646" />
+    <option name="y" value="133" />
     <option name="width" value="1137" />
     <option name="height" value="794" />
   </component>
@@ -206,17 +206,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/code" />
+      <recent name="$PROJECT_DIR$/HTML/005_tags" />
+      <recent name="$PROJECT_DIR$/005_tags" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/images" />
       <recent name="$PROJECT_DIR$/CSS" />
       <recent name="$PROJECT_DIR$/HTML/images" />
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/code" />
-      <recent name="$PROJECT_DIR$/HTML/005_tags" />
-      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,12 +259,12 @@
       <workItem from="1533337980275" duration="8000" />
       <workItem from="1533337989353" duration="17594000" />
       <workItem from="1533944828187" duration="3357000" />
-      <workItem from="1534029794083" duration="251000" />
+      <workItem from="1534029794083" duration="1289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121451000" />
+    <option name="totallyTimeSpent" value="122489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,7 +276,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="803" y="101" width="1137" height="794" extended-state="0" />
+    <frame x="646" y="133" width="1137" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.33243728" />
@@ -495,8 +495,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_tuobiao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="118">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_rule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
