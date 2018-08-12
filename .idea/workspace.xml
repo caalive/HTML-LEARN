@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_webpage_position_float_ziwei.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_ziwei.html">
+      <file leaf-file-name="css_webpage_position_float_example_1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="376">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
@@ -51,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_tag.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selctor_classname.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html" />
@@ -102,6 +103,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_rule.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_tiekao.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_ziwei.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html" />
       </list>
     </option>
   </component>
@@ -121,8 +123,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="853" />
-    <option name="y" value="63" />
+    <option name="x" value="868" />
+    <option name="y" value="23" />
     <option name="width" value="1137" />
     <option name="height" value="794" />
   </component>
@@ -257,12 +259,12 @@
       <workItem from="1533337980275" duration="8000" />
       <workItem from="1533337989353" duration="17594000" />
       <workItem from="1533944828187" duration="3357000" />
-      <workItem from="1534029794083" duration="2803000" />
+      <workItem from="1534029794083" duration="7239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124003000" />
+    <option name="totallyTimeSpent" value="128439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,7 +276,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="951" y="95" width="1137" height="794" extended-state="0" />
+    <frame x="868" y="23" width="1137" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.33243728" />
@@ -514,8 +516,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_ziwei.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="409">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>

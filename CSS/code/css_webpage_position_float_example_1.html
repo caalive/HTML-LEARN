@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>网页排版方式浮动元素练习1</title>
+        <style type="text/css">
+            *{
+                margin: 0px;
+                padding:0px;
+            }
+
+            div{
+                text-align: center;
+                margin: 0 auto;
+            }
+
+            .father123{
+                width: 980px;
+                height: 100px;
+                border: 1px solid white;
+            }
+
+            .father45678{
+                width: 980px;
+                height: 400px;
+                border: 1px solid white;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+         .box1{
+             float:left;
+             width: 250px;
+             height: 100px;
+             background-color: pink;
+         }
+         .box2{
+                width: 150px;
+                height: 50px;
+                background-color: lightskyblue;
+                float:right;
+         }
+
+        .box3{
+            width: 650px;
+            height: 50px;
+            float:right;
+            background-color: purple;
+        }
+
+         .box4{
+             width: 320px;
+             height: 400px;
+             background-color: yellow;
+             float:left;
+         }
+
+        .box5{
+            width: 400px;
+            height: 200px;
+            background-color: deeppink;
+            float:right;
+        }
+
+        .box6{
+            width: 400px;
+            height: 140px;
+            background-color: deepskyblue;
+            float:right;
+            margin-top:10px;
+        }
+
+        .box7{
+            width: 240px;
+            height: 350px;
+            background-color: lightgreen;
+            float:right;
+            margin-left: 10px;
+        }
+
+        .box8{
+            width: 650px;
+            height: 40px;
+            background-color: sandybrown;
+            float:right;
+            margin-top:10px
+        }
+
+        .box9{
+            width: 980px;
+            height: 40px;
+            background-color: tomato;
+        }
+
+
+        </style>
+
+    </head>
+    <body>
+
+        <div class="father123">
+            <div class="box1">250*100</div>
+            <div class="box2">150*50</div>
+            <div class="box3">650*50</div>
+        </div>
+
+        <div class="father45678">
+            <div class="box4">320*400</div>
+            <div class="box7">240*350</div>
+            <div class="box5">400*200</div>
+            <div class="box6">400*140</div>
+
+            <div class="box8">650*40</div>
+        </div>
+
+        <div class="box9">980*40</div>
+    </body>
+</html>
