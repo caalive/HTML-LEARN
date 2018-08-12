@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>网页排版方式浮动元素的字围现象</title>
+        <style type="text/css">
+           div{
+               float:left;
+               width: 100px;
+               height: 100px;
+               background-color: blue;
+               border:1px solid yellow;
+           }
+           p{
+               width: 300px;
+               height: 300px;
+               background-color: yellow;
+           }
+
+        </style>
+
+    </head>
+    <body>
+        <div>
+
+        </div>
+        <p>
+            css3中新增了一个box-sizing属性，这个属性可以保证我们给盒子新增padding和border之后，盒子元素的宽度和高度不变。
+            box-sizing属性是如何保证，增加padding和border之后保持盒子的宽高不变的原理和之前学习 的原理一致，减去了内容的宽高。
+            如果两个盒子是嵌套关系，如果设置了里面一个盒子的顶部外边距，外面一个盒子会被顶下来如果外面的盒子不想被顶下来，那么可以给外边框添加一个边框属性.
+
+        </p>
+    </body>
+</html>
