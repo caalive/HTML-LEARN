@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>清除浮动方式四</title>
+        <style type="text/css">
+            *{
+                padding: 0px;
+                margin: 0px;
+            }
+
+            .box1{
+                background-color: red;
+            }
+            .box2{
+                background-color: green;
+            }
+
+            .box1 p{
+                float: left;
+                background-color: blue;
+            }
+
+            .box2 p{
+                float: left;
+                background-color: yellow;
+            }
+
+            .wall{
+                clear: both;
+            }
+            .h20{
+                height: 10px;
+                background-color: skyblue;
+            }
+
+
+        </style>
+    </head>
+    <body>
+
+        <div class="box1">
+            <p>我是文字1</p>
+            <p>我是文字1</p>
+            <p>我是文字1</p>
+
+            <div class="wall h20"></div>
+        </div>
+
+
+
+        <div class="box2">
+            <p>我是文字2</p>
+            <p>我是文字2</p>
+            <p>我是文字2</p>
+        </div>
+
+    </body>
+</html>
