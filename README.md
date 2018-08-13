@@ -748,4 +748,8 @@ title标签的作用是专门用于只定网站的标题，并且这个只定的
  		- 外墙法和内墙法的区别
  			- 外墙法不能撑起第一个盒子的高度，而内墙法可以撑起第一个盒子的高度。
  			- 在企业开发中不常用隔墙法。
+ 	- 伪元素选择器
+ 		- 伪元素选择器作用就是给指定标签内容前面添加一个子元素，或者给指定标签内容后面添加一个字元素。
+ 		- 格式：
+ 			- element::before{attrname:attrname:attrvalue}, element::afer{attrname:attrname:attrvalue}
 - 定位流排版

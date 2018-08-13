@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>清除浮动方式五，伪元素选择器</title>
+        <style type="text/css">
+            *{
+                padding: 0px;
+                margin: 0px;
+            }
+            /*
+            div{
+
+                width: 200px;
+                height: 200px;
+                background-color: red;
+            }
+
+            p{
+                width: 50px;
+                height: 50px;
+                background-color: pink;
+            }
+
+            div::before{
+                content: "123";
+                width: 50px;
+                height: 50px;
+                background-color: pink;
+                display: block;
+            }
+
+            div::after{
+                content: "456";
+                width: 50px;
+                height: 50px;
+                background-color: pink;
+                display: block;
+            }
+            */
+
+
+
+            *{
+                padding: 0px;
+                margin: 0px;
+            }
+
+            .box1{
+                background-color: red;
+
+            }
+            .box2{
+                background-color: green;
+
+            }
+
+            .box1 p{
+                float: left;
+                background-color: blue;
+            }
+
+            .box2 p{
+                float: left;
+                background-color: yellow;
+            }
+
+            .box1::after{
+                content:"";
+                display:block;
+                height: 0px;
+                visibility: hidden;
+                clear: both;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="box1">
+            <p>我是文字1</p>
+            <p>我是文字1</p>
+            <p>我是文字1</p>
+
+        </div>
+
+        <div class="box2">
+            <p>我是文字2</p>
+            <p>我是文字2</p>
+            <p>我是文字2</p>
+        </div>
+
+
+    </body>
+</html>

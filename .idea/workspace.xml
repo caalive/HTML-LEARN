@@ -21,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_float_clear_4.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css_float_clear_5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_float_clear_4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="320">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_posterity_and_subelement.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_intersection.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_union.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_sibling.html" />
@@ -104,6 +112,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_2.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_3.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_4.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_float_clear_5.html" />
       </list>
     </option>
   </component>
@@ -123,10 +132,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1274" />
-    <option name="y" value="79" />
+    <option name="x" value="922" />
+    <option name="y" value="35" />
     <option name="width" value="1137" />
-    <option name="height" value="794" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,12 +258,12 @@
       <workItem from="1533337989353" duration="17594000" />
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
-      <workItem from="1534163214947" duration="4244000" />
+      <workItem from="1534163214947" duration="5914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132890000" />
+    <option name="totallyTimeSpent" value="134560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,7 +275,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="141" width="1137" height="794" extended-state="0" />
+    <frame x="922" y="35" width="1137" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.36021507" />
@@ -555,8 +564,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="320">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
         </state>
       </provider>
     </entry>
