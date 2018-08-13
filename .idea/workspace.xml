@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_float_clear_5.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_5.html">
+      <file leaf-file-name="css_float_clear_6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+            <state relative-caret-position="496">
+              <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -33,7 +31,7 @@
       <file leaf-file-name="css_float_clear_4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="400">
               <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
@@ -62,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_intersection.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_union.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_sibling.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_order.html" />
@@ -113,6 +110,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_3.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_4.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_5.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_float_clear_6.html" />
       </list>
     </option>
   </component>
@@ -132,8 +130,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="922" />
-    <option name="y" value="35" />
+    <option name="x" value="94" />
+    <option name="y" value="75" />
     <option name="width" value="1137" />
     <option name="height" value="858" />
   </component>
@@ -258,12 +256,12 @@
       <workItem from="1533337989353" duration="17594000" />
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
-      <workItem from="1534163214947" duration="5914000" />
+      <workItem from="1534163214947" duration="6834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134560000" />
+    <option name="totallyTimeSpent" value="135480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,10 +273,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="922" y="35" width="1137" height="858" extended-state="0" />
+    <frame x="94" y="75" width="1137" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36021507" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14784946" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50268817" side_tool="true" weight="0.44906744" />
@@ -562,17 +560,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="48" selection-start-line="48" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="400">
           <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_5.html">
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_float_clear_6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        <state relative-caret-position="496">
+          <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>清除浮动方式六 overflowhidden</title>
+        <style type="text/css">
+            *{
+                padding: 0px;
+                margin: 0px;
+            }
+
+            /*.box1{*/
+                /*width: 100px;*/
+                /*height: 100px;*/
+                /*background-color:red;*/
+                /*overflow: hidden;*/
+                /*!* 作用*/
+                /*1 可以将超出标签范围的内容裁剪掉*/
+                /*2 可以清除浮动*/
+                /**!*/
+            /*}*/
+
+
+            .box1{
+
+                background-color: red;
+                overflow: hidden;
+                *zoom:1; /* 兼容 IE6 */
+            }
+
+            .box2{
+
+                background-color: blue;
+            }
+
+            .box1 p{
+                background-color: skyblue;
+                float: left;
+            }
+
+            .box2 p{
+                background-color: pink;
+                float: left;
+            }
+
+
+            /*overflow: hidden;
+
+                作用
+                1 可以将超出标签范围的内容裁剪掉
+                2 可以清除浮动
+                3 可以通过overflowhidden属性让里面的盒子设置了 margin-top属性外面的盒子不被顶下来
+
+            */
+
+
+        </style>
+    </head>
+    <body>
+        <div class="box1">
+            <p>我是文字1</p>
+        </div>
+
+         <div class="box2">
+             <p>我是文字2</p>
+         </div>
+
+
+    </body>
+</html>
