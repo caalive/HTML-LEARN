@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>清除浮动方二 clear 属性</title>
+        <title>清除浮动方式三</title>
         <style type="text/css">
             *{
                 padding: 0px;
@@ -13,20 +13,26 @@
                 background-color: red;
             }
             .box2{
-                clear:both;
                 background-color: green;
-                margin-top: 20px;
             }
 
             .box1 p{
-
+                float: left;
                 background-color: blue;
-                float:left;
+
             }
 
             .box2 p{
-                background-color: yellow;
                 float: left;
+                background-color: yellow;
+            }
+
+            .wall{
+                clear: both;
+            }
+            .h20{
+                height: 20px;
+                background-color: skyblue;
             }
 
         </style>
@@ -38,6 +44,8 @@
             <p>我是文字1</p>
             <p>我是文字1</p>
         </div>
+
+        <div class="wall h20"></div>
 
         <div class="box2">
             <p>我是文字2</p>
