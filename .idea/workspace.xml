@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_webpage_position_float_example_1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html">
+      <file leaf-file-name="css_float_height.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/css_float_height.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="44">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -53,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_id.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selctor_classname.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_id_and_class.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_posterity.html" />
@@ -104,6 +104,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_tiekao.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_ziwei.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html" />
+        <option value="$PROJECT_DIR$/CSS/code/css_float_height.html" />
       </list>
     </option>
   </component>
@@ -123,8 +124,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="868" />
-    <option name="y" value="23" />
+    <option name="x" value="1327" />
+    <option name="y" value="108" />
     <option name="width" value="1137" />
     <option name="height" value="794" />
   </component>
@@ -180,17 +181,6 @@
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML-LEARN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML-LEARN" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,17 +196,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/code" />
-      <recent name="$PROJECT_DIR$/HTML/005_tags" />
-      <recent name="$PROJECT_DIR$/005_tags" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/images" />
       <recent name="$PROJECT_DIR$/CSS" />
       <recent name="$PROJECT_DIR$/HTML/images" />
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/code" />
+      <recent name="$PROJECT_DIR$/HTML/005_tags" />
+      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,12 +249,13 @@
       <workItem from="1533337980275" duration="8000" />
       <workItem from="1533337989353" duration="17594000" />
       <workItem from="1533944828187" duration="3357000" />
-      <workItem from="1534029794083" duration="7239000" />
+      <workItem from="1534029794083" duration="7446000" />
+      <workItem from="1534163214947" duration="498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128439000" />
+    <option name="totallyTimeSpent" value="129144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,10 +267,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="868" y="23" width="1137" height="794" extended-state="0" />
+    <frame x="1327" y="108" width="1137" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33243728" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36021507" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50268817" side_tool="true" weight="0.44906744" />
@@ -347,6 +338,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_union.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -523,8 +521,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/css_webpage_position_float_example_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="400">
+          <caret line="95" column="9" lean-forward="true" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_float_height.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
