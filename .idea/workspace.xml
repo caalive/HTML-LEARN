@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpage_wangyi_4.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_4.html">
+      <file leaf-file-name="webpage_wangyi_5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+            <state relative-caret-position="593">
+              <caret line="115" column="33" lean-forward="true" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_attr.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_commonsign.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_inheritance.html" />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_2.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_3.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_4.html" />
+        <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html" />
       </list>
     </option>
   </component>
@@ -121,8 +121,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="433" />
-    <option name="y" value="61" />
+    <option name="x" value="532" />
+    <option name="y" value="23" />
     <option name="width" value="1355" />
     <option name="height" value="921" />
   </component>
@@ -248,12 +248,12 @@
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
       <workItem from="1534163214947" duration="6982000" />
-      <workItem from="1534243376824" duration="7478000" />
+      <workItem from="1534243376824" duration="8960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143106000" />
+    <option name="totallyTimeSpent" value="144588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,7 +265,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="801" y="122" width="1355" height="921" extended-state="0" />
+    <frame x="708" y="33" width="1355" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19565217" />
@@ -609,8 +609,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+        <state relative-caret-position="154">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="115" column="33" lean-forward="true" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
         </state>
       </provider>
     </entry>
