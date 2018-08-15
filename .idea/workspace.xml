@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bbea36d-f995-4b75-8bb0-6c4c0dad6cb9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpage_wangyi.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi.html">
+      <file leaf-file-name="webpage_wangyi_2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="501">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_sibling.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_order.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_order2.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_attr.html" />
@@ -104,6 +101,7 @@
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_5.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_float_clear_6.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi.html" />
+        <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_2.html" />
       </list>
     </option>
   </component>
@@ -123,8 +121,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="511" />
-    <option name="y" value="51" />
+    <option name="x" value="636" />
+    <option name="y" value="54" />
     <option name="width" value="1137" />
     <option name="height" value="858" />
   </component>
@@ -195,17 +193,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS/code" />
+      <recent name="$PROJECT_DIR$/HTML/005_tags" />
+      <recent name="$PROJECT_DIR$/005_tags" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CSS/images" />
       <recent name="$PROJECT_DIR$/CSS" />
       <recent name="$PROJECT_DIR$/HTML/images" />
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CSS/code" />
-      <recent name="$PROJECT_DIR$/HTML/005_tags" />
-      <recent name="$PROJECT_DIR$/005_tags" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,12 +248,12 @@
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
       <workItem from="1534163214947" duration="6982000" />
-      <workItem from="1534243376824" duration="1759000" />
+      <workItem from="1534243376824" duration="4233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137387000" />
+    <option name="totallyTimeSpent" value="139861000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +265,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="879" y="60" width="1137" height="858" extended-state="0" />
+    <frame x="1006" y="170" width="1137" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.31989247" />
@@ -582,10 +580,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi.html">
+    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
         </state>
       </provider>
     </entry>
