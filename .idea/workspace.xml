@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpage_wangyi_6.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html">
+      <file leaf-file-name="webpage_wangyi_7.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
+            <state relative-caret-position="405">
+              <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -40,6 +40,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>heigth</find>
+      <find>aside</find>
     </findStrings>
     <replaceStrings>
       <replace>height</replace>
@@ -51,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_inheritance.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_nesting.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_priority.html" />
@@ -102,6 +102,7 @@
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_4.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html" />
+        <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_7.html" />
       </list>
     </option>
   </component>
@@ -121,10 +122,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="368" />
-    <option name="y" value="54" />
+    <option name="x" value="828" />
+    <option name="y" value="23" />
     <option name="width" value="1355" />
-    <option name="height" value="921" />
+    <option name="height" value="953" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -248,12 +249,12 @@
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
       <workItem from="1534163214947" duration="6982000" />
-      <workItem from="1534243376824" duration="10227000" />
+      <workItem from="1534243376824" duration="12580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145855000" />
+    <option name="totallyTimeSpent" value="148208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,7 +266,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="772" y="81" width="1355" height="921" extended-state="0" />
+    <frame x="410" y="23" width="1355" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3328336" />
@@ -437,13 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/code/css_box_sizing_attr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -621,10 +615,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="604" column="16" selection-start-line="604" selection-start-column="16" selection-end-line="604" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/css_box_sizing_attr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
+        <state relative-caret-position="308">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
         </state>
       </provider>
     </entry>
