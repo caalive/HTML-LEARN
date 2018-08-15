@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpage_wangyi_5.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html">
+      <file leaf-file-name="webpage_wangyi_6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="115" column="33" lean-forward="true" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSS/code/css_selector_commonsign.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_selector_example.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_inheritance.html" />
         <option value="$PROJECT_DIR$/CSS/code/css_features_nesting.html" />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_3.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_4.html" />
         <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html" />
+        <option value="$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html" />
       </list>
     </option>
   </component>
@@ -121,8 +121,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="532" />
-    <option name="y" value="23" />
+    <option name="x" value="368" />
+    <option name="y" value="54" />
     <option name="width" value="1355" />
     <option name="height" value="921" />
   </component>
@@ -248,12 +248,12 @@
       <workItem from="1533944828187" duration="3357000" />
       <workItem from="1534029794083" duration="7446000" />
       <workItem from="1534163214947" duration="6982000" />
-      <workItem from="1534243376824" duration="8960000" />
+      <workItem from="1534243376824" duration="10227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144588000" />
+    <option name="totallyTimeSpent" value="145855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,10 +265,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="33" width="1355" height="921" extended-state="0" />
+    <frame x="772" y="81" width="1355" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19565217" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3328336" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50268817" side_tool="true" weight="0.44906744" />
@@ -616,8 +616,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="115" column="33" lean-forward="true" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/code/webpage_wangyi_6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
         </state>
       </provider>
     </entry>
